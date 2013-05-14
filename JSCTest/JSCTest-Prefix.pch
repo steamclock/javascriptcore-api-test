@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'JSCTest' target in the 'JSCTest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
